@@ -2,9 +2,9 @@
 
 > **Portfolio Project** — A full-stack application demonstrating modern web development practices including TypeScript, React, Node.js, PostgreSQL, Docker, CI/CD, and real-time features.
 
-**[Live Demo](https://genuine-encouragement-production.up.railway.app)** · **[GitHub](https://github.com/SeanBNU/chirp)**
+**[Live Demo](https://genuine-encouragement-production.up.railway.app)** · **[GitHub](https://github.com/seanblundin/chirp)**
 
-[![CI](https://github.com/SeanBNU/chirp/actions/workflows/ci.yml/badge.svg)](https://github.com/SeanBNU/chirp/actions/workflows/ci.yml)
+[![CI](https://github.com/seanblundin/chirp/actions/workflows/ci.yml/badge.svg)](https://github.com/seanblundin/chirp/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/chirp)
 
@@ -138,7 +138,7 @@ The fastest way to run locally uses the JSON file-based storage:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SeanBNU/chirp.git
+   git clone https://github.com/seanblundin/chirp.git
    cd chirp
    ```
 
